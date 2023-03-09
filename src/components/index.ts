@@ -1,0 +1,9 @@
+export { default as Header } from './Header/Header.component';
+export { default as CurrenySelector } from './CurrencySelector/CurrencySelector.component';
+export { default as SearchBar } from './SearchBar/SearchBar.component';
+export { default as HashDetails } from './HashDetails/HashDetails.component';
+export { default as AddressDetails } from './AddressDetails/AddressDetails.component';
+export { default as TransactionDetails } from './TransactionDetails/TransactionDetails.component';
+export { default as Footer } from './Footer/Footer.component';
+export { default as PopUpNotification } from './PopUpNotification/PopUpNotification.component';
+export { default as CurrencySelector } from './CurrencySelector/CurrencySelector.component';

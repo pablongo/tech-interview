@@ -1,1 +1,3 @@
 # tech-interview
+
+- Tailwind styles
